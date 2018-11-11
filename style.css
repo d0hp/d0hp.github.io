@@ -63,8 +63,8 @@ h1{
     font-family: 'Heebo', sans-serif;
     top: 50%;
     left: 80%;
-    opacity:0.0;
-    transition:opacity 0.3s;
+    opacity:0.9;
+    transition:opacity 0.9;
 }
 
 .menu {
